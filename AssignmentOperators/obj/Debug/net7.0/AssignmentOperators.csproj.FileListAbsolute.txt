@@ -1,0 +1,15 @@
+D:\LearningCode\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.exe
+D:\LearningCode\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.deps.json
+D:\LearningCode\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.runtimeconfig.json
+D:\LearningCode\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.dll
+D:\LearningCode\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.pdb
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.csproj.AssemblyReference.cache
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.AssemblyInfoInputs.cache
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.AssemblyInfo.cs
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.dll
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\refint\AssignmentOperators.dll
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.pdb
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.genruntimeconfig.cache
+D:\LearningCode\AssignmentOperators\obj\Debug\net7.0\ref\AssignmentOperators.dll
